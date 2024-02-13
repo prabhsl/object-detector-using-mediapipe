@@ -1,0 +1,1 @@
+Object detector made using mediapipe. I have then used the output returned by the object detector to annotate the input image with the object detector output using opencv and save a separate copy of it so the original input image is unaffected
